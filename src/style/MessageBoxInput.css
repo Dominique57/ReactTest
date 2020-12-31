@@ -1,0 +1,10 @@
+.messagebox_input_container {
+  width: 100%;
+  display: flex;
+}
+.messagebox_input_textinput {
+  width: 80%;
+}
+.messagebox_input_sendbutton {
+  width: 20%;
+}

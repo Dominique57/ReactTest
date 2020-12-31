@@ -1,0 +1,20 @@
+.messagebox_message_container {
+  display: flex;
+  width: 100%;
+}
+.messagebox_message_presentation {
+  width: 20%;
+  border: 1px solid black;
+}
+.messagebox_message_content {
+  width: 80%;
+  border: 1px solid black;
+  border-left: none;
+}
+
+.messagebox_message_presentation_author {
+  float: left;
+}
+.messagebox_message_presentation_date {
+  float: right;
+}
